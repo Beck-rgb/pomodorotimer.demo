@@ -1,0 +1,24 @@
+body{
+    background: rgb(131, 131, 131);
+    
+    
+}
+
+.container{
+    background: rgb(218, 218, 218);
+    width: 50%;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    font-family:"Roboto", sans-serif;
+}
+
+
+
+.btn{
+    color: rgb(116, 148, 148);
+    font-size: 50px;
+    font-weight: bold;
+}
+
