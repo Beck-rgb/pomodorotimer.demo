@@ -14,6 +14,11 @@ body{
     border-radius: 50px;
 }
 
+.signature{
+    
+    text-align: center;
+}
+
 .title{
     font-size: 36px;
     margin-bottom: 10px;
